@@ -1,5 +1,5 @@
-import EliteLoadoutApp from "@/components/metaforge-app";
+import { ELITELOADOUTApp } from "@/components/metaforge-app";
 
 export default function Home() {
-  return <EliteLoadoutApp />;
+  return <ELITELOADOUTApp />;
 }
